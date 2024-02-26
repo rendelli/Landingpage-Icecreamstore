@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Landingpage-Icecreamstore/static/css/main.6626490e.css",
+    "main.js": "/Landingpage-Icecreamstore/static/js/main.ca340a19.js",
+    "static/js/787.466df073.chunk.js": "/Landingpage-Icecreamstore/static/js/787.466df073.chunk.js",
+    "static/media/banner-sobre.png": "/Landingpage-Icecreamstore/static/media/banner-sobre.e958a86cc903592d30f0.png",
+    "static/media/banner-sabores.jpg": "/Landingpage-Icecreamstore/static/media/banner-sabores.0e325a982b455ed9676c.jpg",
+    "static/media/banner-home.png": "/Landingpage-Icecreamstore/static/media/banner-home.a58e6b19f3f9b4c9c3dc.png",
+    "index.html": "/Landingpage-Icecreamstore/index.html",
+    "main.6626490e.css.map": "/Landingpage-Icecreamstore/static/css/main.6626490e.css.map",
+    "main.ca340a19.js.map": "/Landingpage-Icecreamstore/static/js/main.ca340a19.js.map",
+    "787.466df073.chunk.js.map": "/Landingpage-Icecreamstore/static/js/787.466df073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6626490e.css",
+    "static/js/main.ca340a19.js"
+  ]
+}
